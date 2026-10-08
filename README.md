@@ -41,8 +41,9 @@ A console-based Address Book Management System developed in C for managing conta
 
 ```bash
 gcc main.c contact.c file.c -o address_book
-
+```
 ## Run
-
 ```bash
 ./address_book
+```
+
